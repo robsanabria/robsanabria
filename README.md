@@ -14,11 +14,9 @@
   
   
 
-- 🔭 I’m currently working on FullStack and Mobile Development
+- 🔭 I’m currently working on Automation and Backend Development
 - 🌱 I’m currently learning Kotlin and React
-- 🤔 I’m looking for help to improve my Kotlin Skills!
 - 📫 How to reach me: you can drop me a line to sanabria.er@gmail.com
-- ⚡ Fun fact: Studied cinema for 5 years, now I am a programming technician!
   
   ---
   
