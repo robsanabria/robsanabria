@@ -36,8 +36,9 @@ Let's connect and build something amazing! 😊
 
 ### Top Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=robsanabria&repo=Slackbot)](https://github.com/robsanabria/Slackbot)
+### 🏆 Top Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=robsanabria&repo=Restaurant-Management-System-.Net)](https://github.com/robsanabria/Restaurant-Management-System-.Net)
+| [![Slackbot](https://github-readme-stats.vercel.app/api/pin/?username=robsanabria&repo=Slackbot)](https://github.com/robsanabria/Slackbot) | [![Restaurant Management](https://github-readme-stats.vercel.app/api/pin/?username=robsanabria&repo=Restaurant-Management-System-.Net)](https://github.com/robsanabria/Restaurant-Management-System-.Net) |
+|------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 ⭐️ From [Roberto](https://github.com/robsanabria/robsanabria/)
