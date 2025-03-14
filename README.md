@@ -47,7 +47,7 @@ Let's connect and build something amazing! 😊
 ---
 
 ### 📫 How to reach me:
-- **LinkedIn**: https://github.com/robsanabria/robsanabria/  
+- **LinkedIn**: https://www.linkedin.com/in/robertoezequielsanabria/
 - **Email**: sanabria.er@gmail.com
 
 
