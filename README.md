@@ -16,9 +16,10 @@ Let's connect and build something amazing! 😊
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,javascript,java,kotlin,c,php" />
+ <img src="https://skillicons.dev/icons?i=anaconda,androidstudio,bash,eclipse,flask,github,notion,postman,ros,visualstudio,wordpress" />
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,azure,firebase,mongodb,mysql" />
   <img src="https://skillicons.dev/icons?i=figma,photoshop,linux,dotnet,slack" />
-  <img src="https://skillicons.dev/icons?i=anaconda,androidstudio,bash,eclipse,flask,github,notion,postman,ros,visualstudio,wordpress" />
+ 
 </p>
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/datadoghq/datadoghq-icon.svg" alt="datadog" width="40" height="40" />
