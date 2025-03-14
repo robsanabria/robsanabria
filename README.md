@@ -15,16 +15,34 @@ Let's connect and build something amazing! 😊
 ## 🛠️ Technologies & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,java,kotlin,c,php" />
- <img src="https://skillicons.dev/icons?i=anaconda,androidstudio,bash,eclipse,flask,github,notion,postman,ros,visualstudio,wordpress" />
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,azure,firebase,mongodb,mysql" />
-  <img src="https://skillicons.dev/icons?i=figma,photoshop,linux,dotnet,slack" />
- 
+  <!-- Lenguajes y Frameworks principales -->
+  <img src="https://skillicons.dev/icons?i=python,java,js,php,dotnet" />
+  
+  <!-- Desarrollo Web & Cloud -->
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,flask,azure,firebase" />
+  
+  <!-- Bases de Datos y Herramientas Dev -->
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,github,postman,visualstudio,androidstudio" />
+  
+  <!-- Otros esenciales -->
+  <img src="https://skillicons.dev/icons?i=linux,figma,slack" />
 </p>
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/datadoghq/datadoghq-icon.svg" alt="datadog" width="40" height="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/VB.NET_Logo.svg" alt="visualbasic" width="40" height="40" />
-</p>
+
+---
+
+### 🏆 Top Projects
+
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center;">
+  <a href="https://github.com/robsanabria/Slackbot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=robsanabria&repo=Slackbot" style="width: 300px; height: 150px;"/>
+  </a>
+  <a href="https://github.com/robsanabria/Restaurant-Management-System-.Net">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=robsanabria&repo=Restaurant-Management-System-.Net" style="width: 300px; height: 150px;"/>
+  </a>
+  <a href="https://github.com/robsanabria/Online-Store-JavaWeb-Tomcat-GET-POST-">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=robsanabria&repo=Online-Store-JavaWeb-Tomcat-GET-POST-" style="width: 300px; height: 150px;"/>
+  </a>
+</div>
 
 ---
 
@@ -32,13 +50,5 @@ Let's connect and build something amazing! 😊
 - **LinkedIn**: https://github.com/robsanabria/robsanabria/  
 - **Email**: sanabria.er@gmail.com
 
----
-
-### Top Projects
-
-### 🏆 Top Projects
-
-| [![Slackbot](https://github-readme-stats.vercel.app/api/pin/?username=robsanabria&repo=Slackbot)](https://github.com/robsanabria/Slackbot) | [![Restaurant Management](https://github-readme-stats.vercel.app/api/pin/?username=robsanabria&repo=Restaurant-Management-System-.Net)](https://github.com/robsanabria/Restaurant-Management-System-.Net) |
-|------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 ⭐️ From [Roberto](https://github.com/robsanabria/robsanabria/)
