@@ -34,4 +34,8 @@ Let's connect and build something amazing! 😊
 
 ---
 
+### Top Projects
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=robsanabria&repo=Slackbot)](https://github.com/robsanabria/Slackbot)
+
 ⭐️ From [Roberto](https://github.com/robsanabria/robsanabria/)
