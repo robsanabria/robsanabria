@@ -3,7 +3,7 @@
 📍 Based in Buenos Aires, Argentina.  
 💻 Aspiring **Junior Developer** with a strong background in **technical support and manual qa**.  
 🚀 Passionate about coding and solving problems through technology.  
-🎯 **Short-term goal**: Transition from support to a **full-time development role**.  
+🎯 **Short-term goal**: Found the perfect role as **full-time developer**.  
 🌱 Currently sharpening my skills in **JavaScript, Python, and web development**.  
 🔧 Building projects to showcase my growth and commitment to becoming a developer.  
 💡 Always learning and eager to contribute to innovative tech solutions.  
