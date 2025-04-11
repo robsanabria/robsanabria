@@ -1,7 +1,7 @@
 # Hi, I'm Roberto! 👋 
 🚀 Welcome to My GitHub Profile!
 
-📍 💻 A passionate developer and tech enthusiast from Buenos Aires, always curious about solving real-world problems with code! 🚀
+📍 💻 A passionate developer and tech enthusiast from Buenos Aires, always curious about solving real-world problems with code! 
 
 Let's connect and build something amazing! 😊  
 
