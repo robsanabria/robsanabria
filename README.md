@@ -6,21 +6,16 @@
 <!-- ===== TYPING ===== -->
 <p align="center"> <a href="https://github.com/robsanabria"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=620&lines=Full+Stack+Developer%2C+let%27s+build+together%21" alt="typing" /> </a> </p>
 
-<!-- ===== BADGES ===== -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=robsanabria&label=Profile%20views&color=0e75b6&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/robsanabria?label=Followers&style=for-the-badge&color=8e44ad" />
-  <img src="https://img.shields.io/github/stars/robsanabria?label=Stars&style=for-the-badge&color=f1c40f" />
-</p>
+
 
 ---
 
-### 🧑‍💻 About me
+### About 
 
-- 🔭 I build full-stack web apps.
-- 🌱 Currently deepening **React, Node.js/Express & Microsoft Azure**.
-- 💾 Across the stack: front-end, REST APIs, SQL databases and cloud deploys (CI/CD with GitHub Actions).
-- 🤝 Open to collaborating, let's build something useful together!
+- I build full-stack web apps.
+- Currently deepening **React, Node.js/Express & Microsoft Azure**.
+- Across the stack: front-end, REST APIs, SQL databases and cloud deploys (CI/CD with GitHub Actions).
+- Open to collaborating, let's build something useful together!
 
 ---
 
