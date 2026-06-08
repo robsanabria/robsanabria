@@ -4,11 +4,7 @@
 </p>
 
 <!-- ===== TYPING ===== -->
-<p align="center">
-  <a href="https://github.com/robsanabria">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=620&lines=Full-Stack+Developer;React+%7C+Node.js+%7C+.NET+%7C+Azure;Turning+paper+processes+into+web+apps+%F0%9F%9A%80" alt="typing" />
-  </a>
-</p>
+<p align="center"> <a href="https://github.com/robsanabria"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=620&lines=Full+Stack+Developer%2C+let%27s+build+together%21" alt="typing" /> </a> </p>
 
 <!-- ===== BADGES ===== -->
 <p align="center">
