@@ -21,10 +21,10 @@
 
 ### 🧑‍💻 About me
 
-- 🔭 I build full-stack web apps that **digitize manual/paper-based processes** (forms, approvals, traceability).
+- 🔭 I build full-stack web apps.
 - 🌱 Currently deepening **React, Node.js/Express & Microsoft Azure**.
 - 💾 Across the stack: front-end, REST APIs, SQL databases and cloud deploys (CI/CD with GitHub Actions).
-- 🤝 Open to collaborating — let's build something useful together!
+- 🤝 Open to collaborating, let's build something useful together!
 
 ---
 
