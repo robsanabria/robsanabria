@@ -53,6 +53,18 @@
 
 ---
 
+### 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/robsanabria/robsanabria/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/robsanabria/robsanabria/output/github-snake.svg" />
+    <img alt="snake animation con mis contribuciones de GitHub" src="https://raw.githubusercontent.com/robsanabria/robsanabria/output/github-snake.svg" />
+  </picture>
+</p>
+
+---
+
 ### 📌 Featured Project
 
 > 🏷️ **[Digitalización de Formularios — OFFAL EXP SA](https://github.com/robsanabria/digitalizacion-formularios-offal)**
