@@ -52,17 +52,17 @@
 
 ### 💼 Custom Web for Clients
 
-I also design and build **custom websites tailored to each client's needs** — from brand-focused
-landing pages to full business sites — covering UI/UX, responsive front-end, deploys and maintenance.
+I also design and build **custom websites tailored to each client's needs**,  from brand-focused
+landing pages to full business sites, covering UI/UX, responsive front-end, deploys and maintenance.
 
 A few projects I've been part of:
 
 | Project | Link |
 | --- | --- |
-| 🍸 **Double Zero — New York** | [doublezeronewyork.com](https://www.doublezeronewyork.com/) |
-| 🌿 **Espacio Viveka** | [espacioviveka.com](https://espacioviveka.com/) |
+|  **Double Zero — New York** | [doublezeronewyork.com](https://www.doublezeronewyork.com/) |
+| **Espacio Viveka** | [espacioviveka.com](https://espacioviveka.com/) |
 
-> Open for freelance & collaboration — got an idea? Let's build it.
+> Open for freelance & collaboration , got an idea? Let's build it.
 
 ---
 
