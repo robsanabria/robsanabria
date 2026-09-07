@@ -10,25 +10,19 @@
 - I also ship integrations and automations: webhooks between industrial systems, Slack bots, and .NET / Blazor apps when the job calls for it.
 - On the side I design and build websites for clients, from landing pages to full business sites.
 
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/Azure%20SQL-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure SQL" />
+  <img src="https://img.shields.io/badge/Azure%20App%20Service-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure App Service" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+</p>
+
 ---
 
 ### 🛠️ Tech stack
 
-**Core**
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,tailwind,azure,githubactions,docker,git&perline=11&theme=dark" alt="JavaScript, TypeScript, React, Next.js, Node.js, Express, Tailwind, Azure, GitHub Actions, Docker, Git" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
-  <img src="https://img.shields.io/badge/Azure%20SQL-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure SQL" />
-</p>
-
-**Also worked with**
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,flask,cs,dotnet,java,mysql,mongodb,redis,vercel,postman,figma&perline=11&theme=dark" alt="Python, Flask, C#, .NET, Java, MySQL, MongoDB, Redis, Vercel, Postman, Figma" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,php,cs,react,nextjs,html,css,tailwind,bootstrap,vite,nodejs,express,dotnet,flask,mysql,mongodb,azure,firebase,docker,githubactions,git,github,postman,linux,figma&perline=7&theme=dark" alt="Tech stack icons" />
 </p>
 
 ---
