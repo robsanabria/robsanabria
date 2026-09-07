@@ -1,83 +1,89 @@
 <!-- ===== BANNER ===== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:8e44ad&height=200&section=header&text=Roberto%20Sanabria&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=Full-Stack%20Developer%20·%20Buenos%20Aires%20🇦🇷&descSize=18&descAlignY=62" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:8e44ad&height=200&section=header&text=Roberto%20Sanabria&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=Full-Stack%20Developer%20·%20Buenos%20Aires%20🇦🇷&descSize=18&descAlignY=62" alt="Roberto Sanabria · Full-Stack Developer · Buenos Aires" />
 </p>
 
-<!-- ===== TYPING ===== -->
-<p align="center"> <a href="https://github.com/robsanabria"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=620&lines=Full+Stack+Developer%2C+let%27s+build+together%21" alt="typing" /> </a> </p>
+### 👋 About me
 
-
-
----
-
-### About 
-
-- I build full-stack web apps.
-- Currently deepening **React, Node.js/Express & Microsoft Azure**.
-- Across the stack: front-end, REST APIs, SQL databases and cloud deploys (CI/CD with GitHub Actions).
-- Open to collaborating, let's build something useful together!
+- Full-stack developer at **Offal Exp SA**, where I build the internal systems the plant runs on: quality control, supplier intake, truck-wash tracking, label digitalization and KPI dashboards.
+- Day-to-day stack: **React / Next.js + Node.js (Express) + SQL Server / Azure SQL**, deployed to **Azure App Service** with **GitHub Actions** CI/CD.
+- I also ship integrations and automations: webhooks between industrial systems, Slack bots, and .NET / Blazor apps when the job calls for it.
+- On the side I design and build websites for clients, from landing pages to full business sites.
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tech stack
+
+**Core**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,python,java,php,cs,react,html,css,tailwind,bootstrap,vite,nodejs,express,dotnet,flask,mysql,mongodb,azure,firebase,git,github,postman,linux,figma&perline=8&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,tailwind,azure,githubactions,docker,git&perline=11&theme=dark" alt="JavaScript, TypeScript, React, Next.js, Node.js, Express, Tailwind, Azure, GitHub Actions, Docker, Git" />
 </p>
-
----
-
-### 📊 GitHub Stats
-
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=robsanabria&hide_border=true&theme=tokyonight" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/Azure%20SQL-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure SQL" />
 </p>
 
+**Also worked with**
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,flask,cs,dotnet,java,mysql,mongodb,redis,vercel,postman,figma&perline=11&theme=dark" alt="Python, Flask, C#, .NET, Java, MySQL, MongoDB, Redis, Vercel, Postman, Figma" />
+</p>
 
 ---
 
-###  Contributions
+### 🚀 Featured projects
+
+| Project | What it does | Stack |
+| --- | --- | --- |
+| [**Digitalización de formularios**](https://github.com/robsanabria/digitalizacion-formularios-offal) · [live](https://etiquetas.offalexpsa.ar/) | Replaces the paper approval flow for technical labels in the plant: multi-step approvals, full traceability, "digital paper" UI. | JavaScript · Express · SQL Server · Azure |
+| [**Control de Lavados**](https://github.com/robsanabria/controlLavado) | Tracks truck and ice-factory wash cycles, assigns operators, times each stage and reports operational metrics. | C# · .NET 9 · Blazor · EF Core |
+| [**Sistémicos Offal**](https://github.com/robsanabria/sistemas-offal) · [live](https://sistemas-offal.vercel.app) | Office ops hub with a 160-sound soundboard, real-time metrics and a collaborative board synced through Redis. | Next.js 16 · React 19 · Tailwind 4 · Upstash Redis |
+| [**HikCentral → Humand**](https://github.com/robsanabria/HikCentral-Webhook) | Middleware that turns Hikvision access-control events into clock-in / clock-out records in Humand. | Python · Artemis OpenAPI |
+| [**Slackbot**](https://github.com/robsanabria/Slackbot) | Slack bot that automates operational requests using OpenAI for natural-language handling. | Python · Flask · MongoDB · OpenAI |
+| [**SubteBA**](https://github.com/robsanabria/SubteBA) · [live](https://subte-ba.vercel.app) | Real-time status of Buenos Aires subway lines from the city's official alerts API. | Next.js 15 · TypeScript · Tailwind |
+
+---
+
+### 💼 Websites for clients
+
+Custom sites built end to end: UI/UX, responsive front-end, deploy and maintenance.
+
+| Client | Site |
+| --- | --- |
+| **Double Zero — New York** | [doublezeronewyork.com](https://www.doublezeronewyork.com/) |
+| **Espacio Viveka** | [espacioviveka.com](https://espacioviveka.com/) |
+
+---
+
+### 📊 GitHub stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=robsanabria&hide_border=true&theme=tokyonight" alt="Contribution streak" />
+</p>
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/robsanabria/robsanabria/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/robsanabria/robsanabria/output/github-snake.svg" />
-    <img alt="snake animation con mis contribuciones de GitHub" src="https://raw.githubusercontent.com/robsanabria/robsanabria/output/github-snake.svg" />
+    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/robsanabria/robsanabria/output/github-snake.svg" />
   </picture>
 </p>
-
-
----
-
-### 💼 Custom Web for Clients
-
-I also design and build **custom websites tailored to each client's needs**,  from brand-focused
-landing pages to full business sites, covering UI/UX, responsive front-end, deploys and maintenance.
-
-A few projects I've been part of:
-
-| Project | Link |
-| --- | --- |
-|  **Double Zero — New York** | [doublezeronewyork.com](https://www.doublezeronewyork.com/) |
-| **Espacio Viveka** | [espacioviveka.com](https://espacioviveka.com/) |
-
-> Open for freelance & collaboration , got an idea? Let's build it.
 
 ---
 
 ### 📫 Let's connect
 
+Open to freelance work and collaborations. The fastest way to reach me is LinkedIn.
+
 <p align="center">
   <a href="https://www.linkedin.com/in/robertoezequielsanabria/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:sanabria.er@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
 <!-- ===== FOOTER WAVE ===== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8e44ad,100:0e75b6&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8e44ad,100:0e75b6&height=120&section=footer" alt="" />
 </p>
