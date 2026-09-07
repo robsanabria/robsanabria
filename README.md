@@ -22,7 +22,7 @@
 ### 🛠️ Tech stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,php,cs,react,nextjs,html,css,tailwind,bootstrap,vite,nodejs,express,dotnet,flask,mysql,mongodb,azure,firebase,docker,githubactions,git,github,postman,linux,figma&perline=7&theme=dark" alt="Tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,tailwind,vite,nodejs,express,cs,dotnet,python,azure,vercel,docker,githubactions,git,github,postman,figma&perline=7&theme=dark" alt="Tech stack icons" />
 </p>
 
 ---
