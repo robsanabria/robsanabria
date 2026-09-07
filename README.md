@@ -5,7 +5,7 @@
 
 ### 👋 About me
 
-- Full-stack developer at **Offal Exp SA**, where I build the internal systems the plant runs on: quality control, supplier intake, truck-wash tracking, label digitalization and KPI dashboards.
+- part time Full-stack developer, full time learner
 - Day-to-day stack: **React / Next.js + Node.js (Express) + SQL Server / Azure SQL**, deployed to **Azure App Service** with **GitHub Actions** CI/CD.
 - I also ship integrations and automations: webhooks between industrial systems, Slack bots, and .NET / Blazor apps when the job calls for it.
 - On the side I design and build websites for clients, from landing pages to full business sites.
